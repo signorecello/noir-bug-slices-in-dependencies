@@ -1,0 +1,8 @@
+[package]
+name = "project"
+type = "bin"
+authors = [""]
+compiler_version = ">=0.21.0"
+
+[dependencies]
+dependency = { path="../dependency" }
